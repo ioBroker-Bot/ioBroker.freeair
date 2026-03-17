@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "freeair",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "news": {
+      "1.0.8": {
+        "en": "dependencies updated",
+        "de": "aktualisierte abhängigkeiten",
+        "ru": "обновленные зависимости",
+        "pt": "dependências atualizadas",
+        "nl": "afhankelijkheden bijgewerkt",
+        "fr": "dépendances mises à jour",
+        "it": "dipendenze aggiornate",
+        "es": "dependencias actualizadas",
+        "pl": "zaktualizowane zależności",
+        "uk": "оновлені залежності",
+        "zh-cn": "更新依赖关系"
+      },
       "1.0.7": {
         "en": "dependencies updated\ndowngrade @iobroker/adapter-core to v3.3.1 to prevent conflicts with js-controller < v7.1.0 in rare cases #56\ndevice error indicator bug fix",
         "de": "aktualisierte abhängigkeiten\ndowngrade @iobroker/adapter-core to v3.3.1, um konflikte mit js-controller < v7.1.0 in seltenen fällen zu verhindern #56\ngerätefehler-indikator fehler beheben",
@@ -80,19 +93,6 @@
         "pl": "zaimplementowano automatyczne przydzielanie ról\noptymalizacje kodu\nPoprawki błędów",
         "uk": "Реалізовано автоматичне призначення ролей\nОптимізація коду\nвиправлення помилок",
         "zh-cn": "自动分配角色已实施\n代码优化\n错误修复"
-      },
-      "1.0.1": {
-        "en": "bug fixes",
-        "de": "fehlerbehebungen",
-        "ru": "исправление ошибок",
-        "pt": "correções de erros",
-        "nl": "foutherstel",
-        "fr": "corrections des bogues",
-        "it": "correzioni di bug",
-        "es": "bug fixes",
-        "pl": "poprawki błędów",
-        "uk": "виправлення помилок",
-        "zh-cn": "错误修正"
       }
     },
     "titleLang": {
